@@ -11,7 +11,7 @@ def setSmiley(color = (255, 0, 0)):
    O, X, X, O, O, X, X, O,
    O, X, X, O, O, X, X, O,
    O, O, O, O, O, O, O, O,
-   O, O, O, O, O, O, O, O,
+   O, X, O, O, O, O, X, O,
    O, X, O, O, O, O, X, O,
    O, O, X, X, X, X, O, O,
    O, O, O, O, O, O, O, O
