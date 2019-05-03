@@ -4,6 +4,5 @@ from time import sleep
 sense = SenseHat()
 
 while True:
-	print(sense.get_accelerometer_raw())
-	sleep(5)
+	print("x: {x}, y: {y}, z: {z}".format(**sense.get_accelerometer_raw())
 
